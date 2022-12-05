@@ -11,7 +11,7 @@ public class DemoTest {
 	
 	@Test
 	public void demo2Test() {
-		System.out.println("Demo2");
+		System.out.println("Demooo2");
 	}
 	
 	@Test
